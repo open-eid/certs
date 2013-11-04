@@ -3,7 +3,7 @@ Version: 3.3
 Release: 1%{?dist}
 Summary: Estonian ID card certificates
 Group: System Environment/Libraries
-License: LGPLv2+
+License: Public Domain
 URL: http://www.ria.ee		
 Source0: esteidcerts.tar.gz
 BuildRoot: %{_tmppath}/-%{version}-%{release}-root-%(%{__id_u} -n)
