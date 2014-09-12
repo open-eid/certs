@@ -1,0 +1,95 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            66:07:a3:d2:9d:29:56:18:0e:e1:5e:59:98:b1:84:55
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=LT, O=Skaitmeninio sertifikavimo centras, OU=Certification Authority, CN=SSC Root CA A
+        Validity
+            Not Before: Dec 27 12:18:52 2006 GMT
+            Not After : Dec 28 12:05:04 2026 GMT
+        Subject: C=LT, O=Skaitmeninio sertifikavimo centras, OU=Certification Authority, CN=SSC Root CA A
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (4096 bit)
+                Modulus (4096 bit):
+                    00:ba:ea:4f:be:84:c0:19:24:8a:21:a9:4c:99:7d:
+                    f7:0c:d5:a5:51:92:a8:65:e3:89:a3:0b:66:e7:42:
+                    f8:79:d2:0f:83:23:7b:b7:a6:c1:24:d6:35:d6:d8:
+                    e5:01:ca:70:b1:16:d6:47:6e:be:10:6c:7e:e9:50:
+                    6e:76:f7:e5:e4:83:0f:78:d5:a0:73:f5:8d:d1:99:
+                    1f:94:44:23:96:c6:ee:72:5a:f9:da:5d:3c:91:af:
+                    6c:e8:97:e8:86:5d:f7:9e:8b:fa:c4:ac:66:4f:e4:
+                    72:3f:3b:dd:9e:4e:35:d2:13:1f:7d:bb:44:4b:f4:
+                    53:ac:d6:14:d7:40:39:ba:c0:3f:fc:85:20:d3:c4:
+                    00:d0:e7:d8:47:99:04:79:87:86:40:b2:ac:5e:c9:
+                    75:20:c3:09:14:af:04:8e:a6:a2:ad:2a:57:88:65:
+                    a1:cc:28:be:36:c9:1f:25:0f:c3:6b:22:84:39:77:
+                    4e:3a:03:c0:6a:db:3e:ba:b6:89:9e:e4:d7:2e:9a:
+                    b7:43:01:3f:f9:da:ac:a9:ac:e4:77:33:87:ed:0b:
+                    39:dd:c7:c1:ad:0d:59:83:30:d1:36:04:58:b4:64:
+                    4e:e6:ff:08:e8:42:b1:80:ab:f8:98:ff:f3:29:86:
+                    16:11:24:4e:09:a1:cf:30:7f:bc:5e:b0:0a:6a:a1:
+                    71:6b:f5:9a:12:6b:25:6d:77:02:a2:46:5e:f9:69:
+                    2f:fb:3b:18:95:5f:8e:5c:97:94:60:5e:1d:71:a8:
+                    41:b4:5d:cf:5a:7a:67:e3:d4:4a:35:1f:37:e0:76:
+                    16:03:3b:f4:51:9c:98:14:29:49:88:0c:42:d0:2d:
+                    6d:a9:a7:40:26:3a:79:00:30:3b:c0:bb:44:98:ad:
+                    24:ce:d1:96:dc:89:78:81:f6:5a:5b:42:bc:74:e1:
+                    87:d3:65:c8:47:e6:36:b2:cc:c1:6f:c0:c7:dc:80:
+                    25:52:3c:31:90:dd:c9:c8:50:a8:7a:bb:76:e0:ef:
+                    13:94:ce:04:7e:6a:b6:4e:77:f9:83:d0:6f:f8:3a:
+                    d0:0a:43:ca:ba:10:b6:ff:3c:1d:94:60:94:84:6d:
+                    f5:a5:c9:7d:4c:0a:7e:2f:8f:6f:fd:dd:2d:7b:4a:
+                    e9:ef:34:db:bb:7e:ff:0c:6f:37:fa:f9:c3:cc:c9:
+                    2f:d1:e9:2c:3d:2a:ac:6c:26:3b:d0:09:5e:c4:80:
+                    27:8b:dd:61:f0:e7:95:51:43:c4:0d:e6:31:d0:78:
+                    d6:c1:c6:c2:66:01:d1:e3:cc:c7:d3:1e:15:05:36:
+                    db:94:9a:ec:52:c3:91:c7:2f:b1:f4:03:f7:07:ac:
+                    d3:4b:91:ab:56:3c:d0:ae:fd:5f:6d:2d:d3:00:11:
+                    cf:93:bd
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.22501.1.2.0
+                  CPS: http://www.ssc.lt/cps
+
+            X509v3 CRL Distribution Points: 
+                URI:http://crl.ssc.lt/root-a/cacrl.crl
+
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Subject Key Identifier: 
+                CC:BF:DE:A7:90:77:62:6A:1D:78:69:2E:0A:38:9B:77:51:53:03:F0
+    Signature Algorithm: sha1WithRSAEncryption
+        3e:af:c8:a8:c7:33:4f:f0:6e:9a:43:e1:f2:b0:57:52:e1:9c:
+        9e:06:5f:42:d6:f1:fd:ca:8b:51:3f:e1:c7:65:69:4f:74:19:
+        50:8a:cf:18:93:49:8d:a0:1c:b0:3b:3d:8e:48:93:d9:e8:05:
+        7e:c4:09:b1:0f:52:8a:6b:97:6f:d7:8e:3c:80:00:d0:41:73:
+        ad:3d:c3:44:07:71:6a:8f:62:7e:05:d8:53:60:72:b1:01:e9:
+        00:62:aa:0d:d8:d8:49:c2:b4:7d:0d:5b:b3:97:29:36:99:b9:
+        a7:d1:4b:98:6b:44:bc:b2:12:8e:76:64:75:4c:0d:cd:c2:2e:
+        b3:58:fc:7a:4f:55:b3:59:7f:5d:e0:2f:30:33:cf:88:1b:69:
+        e9:4d:8a:90:9e:90:b9:31:3a:f3:a2:05:bc:fe:f9:dd:50:8d:
+        0e:94:19:9d:7e:8d:aa:15:7e:0f:52:93:25:e4:81:0e:96:2d:
+        1c:03:1c:30:83:11:96:42:a9:98:a4:9d:5f:c9:a9:5c:3b:49:
+        68:c2:84:6d:99:da:f6:fe:a2:f2:dc:37:5e:8d:7a:e5:a5:57:
+        ca:23:4b:93:5d:92:2a:55:84:b3:96:b3:1e:98:94:49:7c:6c:
+        3c:dc:9e:1d:b6:ab:c3:ac:09:c5:9d:de:37:d7:54:c4:9c:ad:
+        3f:b0:d6:69:01:e5:10:86:7d:b9:81:83:6e:9c:66:4e:95:05:
+        92:90:31:87:26:b2:da:91:74:bd:84:e4:71:68:e4:76:00:e0:
+        76:73:34:47:86:95:65:ba:5b:90:a2:6d:05:29:78:60:eb:86:
+        f9:12:4d:e8:08:56:a4:cc:8c:a2:56:4a:ce:80:f4:14:61:22:
+        e5:ab:1d:3a:41:3b:84:d7:82:78:05:2f:ac:1d:23:68:ab:72:
+        79:85:cd:46:e6:7a:a7:82:5a:28:d0:15:3d:1d:db:8c:98:50:
+        ce:fb:af:58:3b:d3:a9:ae:80:3b:16:00:76:27:d5:70:e9:09:
+        8d:36:94:09:7f:e3:ef:60:10:51:ca:c6:55:70:66:ab:51:6f:
+        f3:51:4f:12:56:ae:fb:d7:d9:0d:e0:fa:ab:10:de:6a:81:ac:
+        85:77:2d:ac:7a:63:7b:46:e1:37:da:57:6e:ad:65:fc:21:04:
+        99:85:01:cf:23:3a:32:c5:ed:5a:9b:d5:a1:82:04:77:11:45:
+        8e:a4:44:7d:c2:cb:cb:a7:0f:e8:12:ba:f2:6e:ba:8f:33:30:
+        1b:dd:29:f8:f0:42:a3:6e:42:a5:6e:fa:56:a5:a9:50:83:d1:
+        05:66:16:8b:2d:fb:e6:92:d1:e6:6c:0b:d5:5a:29:6d:2b:cf:
+        79:d7:d9:da:4f:f0:68:b6
